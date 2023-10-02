@@ -11,7 +11,7 @@
 <product>
 	<name>Kim Kardashian Signature Leather Tote Bag</name>
 	<description>Kim's go-to signature leather tote, featuring a timeless design with gold-plated hardware. The spacious interior is lined with silk and includes multiple compartments for organization.</description>
-	<size></size>
+	<size>medium -- 8 L</size>
 	<price>$2,500</price>
 	<categories>
 		<category>Fashion</category><category>Iconic</category>
@@ -21,7 +21,7 @@
 <product>
 	<name>Diamond-Encrusted Lip Gloss Compact</name>
 	<description>A luxurious lip gloss compact with a dazzling diamond-encrusted exterior. The gloss inside is a high-shine, non-sticky formula perfect for achieving Kim's signature pout.</description>
-	<size></size>
+	<size>small -- 1.7 oz</size>
 	<price>$500</price>
 	<categories>
 		<category>Beauty</category>
@@ -32,7 +32,7 @@
 <product>
 	<name>Limited Edition Perfume Pen</name>
 	<description>A sleek, gold-plated perfume pen containing Kim's exclusive limited edition fragrance. The pen dispenses the perfect amount of the sultry scent, ideal for on-the-go touch-ups.</description>
-	<size></size>
+	<size>small -- 1.7 oz</size>
 	<price>$800</price>
 	<categories>
 		<category>Fragrance</category>
