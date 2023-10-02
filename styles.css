@@ -10,7 +10,9 @@ product {
 }
 
 heading {
+	display: flex;
 	font-weight: bolder;
+	align-items: center;
 	color: #FF3E9E
 }
 
