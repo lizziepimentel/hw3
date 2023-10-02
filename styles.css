@@ -18,7 +18,6 @@ heading {
 proof {
 	display: flex;
 	color: darkred;
-	justify-content: center;
 }
 
 name {
@@ -48,4 +47,5 @@ categories {
 category {
 	font-style: italic;
 	color: steelblue;
+	margin: 0 5px;
 }
