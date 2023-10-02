@@ -1,0 +1,32 @@
+/* CSS Document */
+
+product {
+	display: block;
+	margin-bottom: 20px;
+	border: 2px solid #FD65B1;
+	bordeer-radius: 10px;
+	padding: 10px;
+	background-color: lavenderblush;
+}
+
+name {
+	font-weight: bold;
+}
+
+description {
+	color: darkred;
+}
+
+price {
+	color: orangered;
+}
+
+categories {
+	display: flex;
+	justify-content: space-between;
+}
+
+category {
+	font-style: italic;
+	color: steelblue
+}
