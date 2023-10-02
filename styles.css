@@ -9,24 +9,30 @@ product {
 	background-color: lavenderblush;
 }
 
+
 name {
 	font-weight: bold;
+	margin-bottom: 5px;
 }
 
 description {
 	color: darkred;
+	margin-bottom: 5px;
 }
 
 price {
 	color: orangered;
+	margin-bottom: 5px;
 }
 
 categories {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
+	align-items: center;
 }
 
 category {
 	font-style: italic;
-	color: steelblue
+	color: steelblue;
+	margin: 0 5px;
 }
