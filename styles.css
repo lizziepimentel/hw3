@@ -8,21 +8,32 @@ product {
 	padding: 10px;
 	background-color: lavenderblush;
 }
-
+product:after {
+	white-space: pre;
+}
 
 name {
 	font-weight: bold;
 	margin-bottom: 5px;
+}
+name:after {
+	white-space: pre;
 }
 
 description {
 	color: darkred;
 	margin-bottom: 5px;
 }
+description:after {
+	white-space: pre;
+}
 
 price {
 	color: orangered;
 	margin-bottom: 5px;
+}
+price:after {
+	white-space: pre;
 }
 
 categories {
