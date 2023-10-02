@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<product>
+	<name>Kim Kardashian Signature Leather Tote Bag</name>
+	<description>Kim's go-to signature leather tote, featuring a timeless design with gold-plated hardware. The spacious interior is lined with silk and includes multiple compartments for organization.</description>
+	<size></size>
+	<price>$2,500</price>
+	<categories>
+		<category>Fashion</category><category>Iconic</category>
+	</categories>
+</product>
+
+<product>
+	<name>Diamond-Encrusted Lip Gloss Compact</name>
+	<description>A luxurious lip gloss compact with a dazzling diamond-encrusted exterior. The gloss inside is a high-shine, non-sticky formula perfect for achieving Kim's signature pout.</description>
+	<size></size>
+	<price>$500</price>
+	<categories>
+		<category>Beauty</category>
+		<category>Glam</category>
+	</categories>
+</product>
+
+<product>
+	<name>Limited Edition Perfume Pen</name>
+	<description>A sleek, gold-plated perfume pen containing Kim's exclusive limited edition fragrance. The pen dispenses the perfect amount of the sultry scent, ideal for on-the-go touch-ups.</description>
+	<size></size>
+	<price>$800</price>
+	<categories>
+		<category>Fragrance</category>
+		<category>Luxe</category>
+	</categories>
+</product>
+
+<product>
+	<name>Designer Sunglasses with Swarovski Crystals</name>
+	<description>Oversized sunglasses from a top designer brand adorned with Swarovski crystals. These statement shades provide both style and maximum UV protection.</description>
+	<size>One size fits all</size>
+	<price>$1,200</price>
+	<categories>
+		<category>Fashion</category>
+		<category>Statement</category>
+	</categories>
+</product>
+
+<product>
+	<name>Custom Monogrammed Silk Face Mask</name>
+	<description>A silk face mask personalized with Kim's initials. The fashionable and protetive accessory adds a touch of elegance to any ensemble.</description>
+	<size>One size fits all</size>
+	<price>$150</price>
+	<categories>
+		<category>Fashion</category>
+		<category>COVID-related</category>
+	</categories>
+</product>
+
+<product>
+	<name>24K Gold-Infused Phone Charger</name>
+	<description>A high-end phone charger featuring 24K gold accents. This tech accessory not only keeps your phone powered up but does so in style.</description>
+	<size>3 feet long</size>
+	<price>$350</price>
+	<categories>
+		<category>Tech</category>
+		<category>Chic</category>
+	</categories>
+</product>
+
+<product>
+	<name>Crystal-Embellished Hair Clips Set</name>
+	<description>A set of three hair clips featuring intricate crystal embellishments. These clips add a touch of glamour to any hairstyle, as seen on Kim herself.</description>
+	<size>Small (2 inches each)</size>
+	<price>$180</price>
+	<categories>
+		<category>Beauty</category>
+		<category>Hair Accessories</category>
+	</categories>
+</product>
+
+<product>
+	<name>Gold-plated Selfie Ring Light</name>
+	<description>A portable, gold-plated ring light designed for capturing the perfect selfie in any lighting. The adjustable brightness ensures flawless photos every time.</description>
+	<size>3 inches in diameter</size>
+	<price>$300</price>
+	<categories>
+		<category>Tech</category>
+		<category>Selfie Essentials</category>
+	</categories>
+</product>
