@@ -18,6 +18,7 @@ heading {
 proof {
 	display: flex;
 	color: darkred;
+	justify-content: center;
 }
 
 name {
