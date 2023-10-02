@@ -9,6 +9,10 @@ product {
 	background-color: lavenderblush;
 }
 
+heading {
+	display: flex;
+	font-weight: 900;
+}
 
 name {
 	display: flex;
