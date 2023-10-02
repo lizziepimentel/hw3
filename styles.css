@@ -15,24 +15,27 @@ heading {
 	color: #FF3E9E
 }
 
+proof {
+	display: flex;
+	color: darkred;
+	justify-content: center;
+}
+
 name {
 	display: flex;
 	font-weight: bold;
-	margin-bottom: 5px;
 }
 
 
 description {
 	display: flex;
 	color: darkred;
-	margin-bottom: 5px;
 }
 
 
 price {
 	display: flex;
 	color: orangered;
-	margin-bottom: 5px;
 }
 
 
@@ -45,5 +48,4 @@ categories {
 category {
 	font-style: italic;
 	color: steelblue;
-	margin: 0 5px;
 }
