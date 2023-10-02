@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="styles.css"?>
-<document xml:base="https://lizziepimentel.github.io/hw3/">
 <products>
 	
 <product>
 	<heading>I found Kim Kardashian's Missing Purse! Selling Items:</heading>
 	<proof>
-		<a href= "image.html">proof: https://lizziepimentel.github.io/hw3/image.html</a>
+		proof (copy&paste in new tab): https://lizziepimentel.github.io/hw3/image.html
 	</proof>
 </product>
 	
