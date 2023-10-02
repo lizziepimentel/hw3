@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="styles.css"?>
+
 <products>
+	
+<product>
+	<heading>I found Kim Kardashian's Missing Purse!</heading>
+</product>
+	
 <product>
 	<name>Kim Kardashian Signature Leather Tote Bag</name>
 	<description>Kim's go-to signature leather tote, featuring a timeless design with gold-plated hardware. The spacious interior is lined with silk and includes multiple compartments for organization.</description>
